@@ -1,4 +1,3 @@
-// js7.js
 
 function checkPasswordMatch() {
     // Récupérer les valeurs des champs password et confirm password
